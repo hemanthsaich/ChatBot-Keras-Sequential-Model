@@ -1,4 +1,4 @@
-# Chatbot built using real chat data and pretrained model
+# AI-ChatBot Using Keras Sequential And Pretrained Model.
 
 ![image](https://telegra.ph/file/51c15f63d0fc65fe328a7.jpg)
 
