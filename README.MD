@@ -1,6 +1,6 @@
 # Chatbot built using real chat data and pretrained model
 
-https://telegra.ph/file/51c15f63d0fc65fe328a7.jpg
+![image](https://telegra.ph/file/51c15f63d0fc65fe328a7.jpg)
 
 This project is compiled with python for the purpose of  pre-trained USE model. The code is intended to run locally in a terminal.
 
