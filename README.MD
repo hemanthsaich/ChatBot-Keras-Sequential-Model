@@ -4,9 +4,8 @@
 
 ## Overview
 
-Companies depend on large and round-the-clock support staff to maintain customer engagement. This can be costly and impractical. Chatbots can effectively boost efficiency and lower the cost of business. It resolves unlimited queries with the least human interaction. Creating robust chatbot training data is costly in terms of human time and effort. Additionally, it increases the product design to deployment time. Companies with only a minimal amount of training data may not be able to produce a robust enough model to use for chatbot interactions.
-
-In this project, we will use internal customer support data to create a robust chatbot using the Sequential model. It also demonstrates how to run the chatbot by using the developed model.
+Companies rely on huge, round-the-clock support teams to keep customers engaged. This can be both pricey and inconvenient. Chatbots can significantly increase efficiency and reduce corporate costs. It handles an infinite number of questions with minimal human intervention. Creating comprehensive chatbot training data is time consuming and labor intensive. It also lengthens the period from product design to deployment. Companies with little training data may be unable to create a solid enough model for chatbot interactions.
+In this project, we will use internal customer support data to build a strong chatbot utilizing the Sequential model. It also shows how to run the chatbot with the developed model.
 
 ## Aim
 ```
