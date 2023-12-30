@@ -4,25 +4,9 @@
 
 ## Overview
 
-Companies depend on large and round-the-clock support staff to maintain customer
+Companies depend on large and round-the-clock support staff to maintain customer engagement. This can be costly and impractical. Chatbots can effectively boost efficiency and lower the cost of business. It resolves unlimited queries with the least human interaction. Creating robust chatbot training data is costly in terms of human time and effort. Additionally, it increases the product design to deployment time. Companies with only a minimal amount of training data may not be able to produce a robust enough model to use for chatbot interactions.
 
-engagement. This can be costly and impractical. Chatbots can effectively boost
-
-efficiency and lower the cost of business. It resolves unlimited queries with the least
-
-human interaction. Creating robust chatbot training data is costly in terms of human time
-
-and effort. Additionally, it increases the product design to deployment time. Companies
-
-with only a minimal amount of training data may not be able to produce a robust enough
-
-model to use for chatbot interactions.
-
-In this project, we will use internal customer support data to create a robust chatbot
-
-using the Sequential model. It also demonstrates how to run the chatbot by using the
-
-developed model.
+In this project, we will use internal customer support data to create a robust chatbot using the Sequential model. It also demonstrates how to run the chatbot by using the developed model.
 
 ## Aim
 ```
@@ -36,21 +20,13 @@ developed model.
 ```
 ➔ Language: Python
 
-➔ Libraries: pandas, numpy, seaborn, spacy, tensorflow, sklearn, nltk, matplotlib,
-
-hyperopt, keras, chatintents
+➔ Libraries: pandas, numpy, seaborn, spacy, tensorflow, sklearn, nltk, matplotlib, hyperopt, keras, chatintents
 
 ```
 
 ## Data
 
-The dataset is an unstructured assortment of project customer service inquiry chat
-
-logs. The chat logs consist of timestamped dialogue between a human customer agent
-
-and a visitor to the project website. The dialogue consists predominately of queries
-
-about project's services, prices, location, and signup information.
+The dataset is an unstructured assortment of project customer service inquiry chat logs. The chat logs consist of timestamped dialogue between a human customer agent and a visitor to the project website. The dialogue consists predominately of queries about project's services, prices, location, and signup information.
 
 ## Approach
 
