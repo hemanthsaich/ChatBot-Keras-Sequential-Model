@@ -2,6 +2,82 @@
 
 ![image](https://telegra.ph/file/51c15f63d0fc65fe328a7.jpg)
 
+## Overview
+
+Companies depend on large and round-the-clock support staff to maintain customer
+
+engagement. This can be costly and impractical. Chatbots can effectively boost
+
+efficiency and lower the cost of business. It resolves unlimited queries with the least
+
+human interaction. Creating robust chatbot training data is costly in terms of human time
+
+and effort. Additionally, it increases the product design to deployment time. Companies
+
+with only a minimal amount of training data may not be able to produce a robust enough
+
+model to use for chatbot interactions.
+
+In this project, we will use internal customer support data to create a robust chatbot
+
+using the Sequential model. It also demonstrates how to run the chatbot by using the
+
+developed model.
+
+## Aim
+```
+1. To Process Unstructured Data
+
+2. To Label the data using unsupervised and supervised techniques
+
+3. To build an AI Chatbot for customer assistants using a sequential model
+```
+## Requirements
+```
+➔ Language: Python
+
+➔ Libraries: pandas, numpy, seaborn, spacy, tensorflow, sklearn, nltk, matplotlib,
+
+hyperopt, keras, chatintents
+
+```
+
+## Data
+
+The dataset is an unstructured assortment of project customer service inquiry chat
+
+logs. The chat logs consist of timestamped dialogue between a human customer agent
+
+and a visitor to the project website. The dialogue consists predominately of queries
+
+about project's services, prices, location, and signup information.
+
+## Approach
+
+```
+
+1. Preprocess semi-structured data
+
+2. Perform exploratory data analysis
+
+3. Unsupervised labeling
+
+4. Supervised labeling
+
+5. Training data preparation
+
+6. Hyperparameter tuning
+
+7. Train deep learning sequential model
+
+8. Evaluating the model
+
+9. Use model for prediction
+
+10.Run the chatbot
+
+```
+
 This project is compiled with python for the purpose of  pre-trained USE model. The code is intended to run locally in a terminal.
 
 Virtual environment
