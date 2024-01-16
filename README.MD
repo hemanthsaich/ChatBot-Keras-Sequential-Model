@@ -1,6 +1,6 @@
 # AI-ChatBot Using Keras Sequential And Pretrained Model.
 
-![image](https://telegra.ph/file/51c15f63d0fc65fe328a7.jpg)
+![image](https://telegra.ph/file/6ba9dcb9ef1e82f0cc87b.png)
 
 ## Overview
 
